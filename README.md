@@ -4,13 +4,11 @@
 
 IrisHR is a web-based Human Resource Management System designed to centralize employee management, attendance monitoring, payroll processing, recruitment, and administrative operations. This project focused on improving organizational efficiency while incorporating cybersecurity enhancements to protect sensitive employee information.
 
----
 
 ## Overview
 
 Human Resource systems handle confidential employee records and organizational data, making security a critical requirement. This project involved evaluating an existing HR management platform and implementing security improvements to address common web application vulnerabilities while maintaining usability and functionality.
 
----
 
 ## Key Features
 
@@ -34,7 +32,6 @@ Human Resource systems handle confidential employee records and organizational d
 - Protection against SQL Injection
 - Protection against Cross-Site Scripting (XSS)
 
----
 
 ## Technologies Used
 
@@ -46,24 +43,11 @@ Human Resource systems handle confidential employee records and organizational d
 - XAMPP
 - Apache
 
----
 
 ## Project Motivation
 
 Human Resource systems store highly sensitive information including employee records, payroll information, attendance logs, and administrative data. This project aimed to improve the security posture of an HR management system by identifying vulnerabilities and implementing practical security controls that strengthen data protection and access management.
 
----
-
-## My Contributions
-
-- Conducted security assessment and vulnerability analysis
-- Implemented authentication and access control improvements
-- Enhanced session management mechanisms
-- Applied input validation and sanitization techniques
-- Assisted in system testing and documentation
-- Participated in security-focused redesign discussions
-
----
 
 ## Screenshots
 
@@ -87,7 +71,6 @@ Human Resource systems store highly sensitive information including employee rec
 
 ![Payroll](screenshots/admin-payroll.png)
 
----
 
 ## Database Setup
 
@@ -103,7 +86,6 @@ irishr_db.sql
 
 6. Update database credentials if necessary.
 
----
 
 ## Future Improvements
 
@@ -113,7 +95,6 @@ irishr_db.sql
 - Automated security reporting
 - API integration for third-party HR services
 
----
 
 ## Contributors
 
@@ -124,7 +105,16 @@ This project was developed as part of a two-person project.
 - Christian James Cahilig
 - Karylle Mish Gellica
 
----
+
+## My Contributions
+
+- Conducted security assessment and vulnerability analysis
+- Implemented authentication and access control improvements
+- Enhanced session management mechanisms
+- Applied input validation and sanitization techniques
+- Assisted in system testing and documentation
+- Participated in security-focused redesign discussions
+
 
 ## Learning Outcomes
 
